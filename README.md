@@ -6,7 +6,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandohsf&layout=compact&langs_count=6&theme=merko"/>
 </div>
 <br>
-### Minhas redes sociais 
+# Redes sociais 
 <div>
    <a href="https://docs.google.com/document/d/1u0wXVPNMu-DNwISTbDr9LA29QVCr9D6eBKyVR9-awV4/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-curriculo-%230077B5?style=for-the-badge&logo=google&Color=white" target="_blank"></a> 
    <a href = "mailto:fernandohsferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
