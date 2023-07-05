@@ -6,7 +6,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandohsf&layout=compact&langs_count=6&theme=merko"/>
 </div>
 <br>
-
 ### Redes sociais 
 <div>
    <a href="https://fernandohsf.github.io/Mini-portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Mini Portfólio-%230077B5?style=for-the-badge&logo=google&Color=white" target="_blank"></a> 
